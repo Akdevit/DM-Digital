@@ -1,0 +1,161 @@
+{
+    "cscServices": [
+      {
+        "category": "Identity Services",
+        "name": "Aadhaar Card Update & Mobile Number Link",
+        "description": "Update Aadhaar details and link mobile number with Aadhaar card.",
+        "whatsappMessage": "Hi, I need help with updating my Aadhaar details and linking my mobile number."
+      },
+      {
+        "category": "Identity Services",
+        "name": "PAN Card Apply & Correction",
+        "description": "Apply for a new PAN card or make corrections to an existing one.",
+        "whatsappMessage": "Hello, I would like to apply for a new PAN card or correct details on my existing one."
+      },
+      {
+        "category": "Identity Services",
+        "name": "Voter ID Card Apply & Correction",
+        "description": "Apply for a new Voter ID card or update details on an existing one.",
+        "whatsappMessage": "Hi, I need assistance with applying for a new Voter ID card or updating my current details."
+      },
+      {
+        "category": "Driving License Services",
+        "name": "Driving License & Learning License Apply",
+        "description": "Assistance in applying for a new driving license or a learning license.",
+        "whatsappMessage": "Hello, I need guidance on applying for a driving license or a learning license."
+      },
+      {
+        "category": "Financial Services",
+        "name": "Aadhaar Enabled Payment System (AePS)",
+        "description": "Withdraw or deposit money using Aadhaar authentication.",
+        "whatsappMessage": "Hi, I want to know more about withdrawing or depositing money using Aadhaar authentication."
+      },
+      {
+        "category": "Identity Services",
+        "name": "Passport Application",
+        "description": "Support for new passport applications and renewals.",
+        "whatsappMessage": "Hello, I need help with the passport application or renewal process."
+      },
+      {
+        "category": "Banking Services",
+        "name": "Airtel Payment Bank Account Opening",
+        "description": "Open an Airtel Payment Bank account easily.",
+        "whatsappMessage": "Hi, I am interested in opening an Airtel Payment Bank account. Can you assist me?"
+      },
+      {
+        "category": "Educational Services",
+        "name": "Scholarship Application",
+        "description": "Online application for various scholarships.",
+        "whatsappMessage": "Hello, I would like information on how to apply for scholarships online."
+      },
+      {
+        "category": "Health Services",
+        "name": "Ayushman Card Issuance",
+        "description": "Apply for the Ayushman Bharat health insurance card.",
+        "whatsappMessage": "Hi, how can I apply for the Ayushman Bharat health insurance card?"
+      },
+      {
+        "category": "Identity Services",
+        "name": "ABC ID Card Issuance",
+        "description": "Issue of ABC ID cards for authorized individuals.",
+        "whatsappMessage": "Hello, I need details on how to get an ABC ID card."
+      },
+      {
+        "category": "Travel Services",
+        "name": "Train Ticket Booking",
+        "description": "Book train tickets through CSC services.",
+        "whatsappMessage": "Hi, I would like assistance with booking a train ticket."
+      },
+      {
+        "category": "Utility Services",
+        "name": "Electricity Bill Payment",
+        "description": "Pay your electricity bills online via CSC services.",
+        "whatsappMessage": "Hello, how can I pay my electricity bill using CSC services?"
+      },
+      {
+        "category": "Land and Property Services",
+        "name": "Land Record Receipt Generation",
+        "description": "Generate receipts for land records through CSC.",
+        "whatsappMessage": "Hi, I want to generate a receipt for my land records."
+      },
+      {
+        "category": "Land and Property Services",
+        "name": "Online Mutation",
+        "description": "Apply for online mutation of property records.",
+        "whatsappMessage": "Hello, can you help me with online mutation services?"
+      },
+      {
+        "category": "Identity Services",
+        "name": "Ration Card Issuance, Addition & Deletion",
+        "description": "Apply for a new ration card, add members, or delete names.",
+        "whatsappMessage": "Hi, I need help with ration card issuance, adding members, or deleting names."
+      },
+      {
+        "category": "Identity Services",
+        "name": "Caste, Residence, Income Certificate Issuance",
+        "description": "Apply for caste, residence, or income certificates.",
+        "whatsappMessage": "Hello, how do I apply for caste, residence, or income certificates?"
+      },
+      {
+        "category": "Telecom Services",
+        "name": "SIM Card Replacement",
+        "description": "Request for a SIM card replacement.",
+        "whatsappMessage": "Hi, I need a replacement for my SIM card."
+      },
+      {
+        "category": "Financial Services",
+        "name": "Loan Repayment",
+        "description": "Pay off any kind of loan through CSC services.",
+        "whatsappMessage": "Hello, how can I repay my loan using CSC services?"
+      },
+      {
+        "category": "Telecom Services",
+        "name": "Mobile Recharge",
+        "description": "Recharge your mobile phone through CSC.",
+        "whatsappMessage": "Hi, can you help me with recharging my mobile phone?"
+      },
+      {
+        "category": "Pension Services",
+        "name": "Old Age Pension KYC",
+        "description": "Complete KYC for old age pension schemes.",
+        "whatsappMessage": "Hello, I want to complete KYC for the old age pension scheme."
+      },
+      {
+        "category": "Utility Services",
+        "name": "New Electricity Meter Connection",
+        "description": "Apply for a new electricity meter connection.",
+        "whatsappMessage": "Hi, I need assistance with applying for a new electricity meter connection."
+      },
+      {
+        "category": "Energy Services",
+        "name": "Solar System Application",
+        "description": "Apply for a solar energy system installation.",
+        "whatsappMessage": "Hello, how do I apply for a solar energy system installation?"
+      },
+      {
+        "category": "Financial Services",
+        "name": "PF Money Withdrawal",
+        "description": "Withdraw your Provident Fund (PF) money.",
+        "whatsappMessage": "Hi, I need help withdrawing my Provident Fund (PF) money."
+      },
+      {
+        "category": "Identity Services",
+        "name": "Passport Seva",
+        "description": "Services related to passport issuance and renewal through Passport Seva.",
+        "whatsappMessage": "Hi, I need assistance with Passport Seva for issuance or renewal."
+      },
+      {
+        "category": "Labour Services",
+        "name": "E Shram Card",
+        "description": "Services for registering and issuing E Shram Cards for unorganized workers.",
+        "whatsappMessage": "Hi, I need assistance with registering for an E Shram Card."
+      },
+      {
+        "category": "Labour Services",
+        "name": "Labour Card",
+        "description": "Services for obtaining and renewing Labour Cards for workers.",
+        "whatsappMessage": "Hi, I need assistance with obtaining or renewing a Labour Card."
+      }
+    ]
+  }
+  
